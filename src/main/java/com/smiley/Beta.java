@@ -1,5 +1,9 @@
 package com.smiley;
 
 public class Beta {
-    print();
+    
+    public void doSomething(){
+        
+    }
+    System.out.print();
 }
